@@ -1,0 +1,13 @@
+name: Tetris
+author: vivace
+version: 1.0
+main: me.vivace.Tetris.Tetris
+description: tetris in minecraft
+api-version: 1.13
+commands:
+    settboard:
+        usage: /<command>
+    tetris:
+        usage: /<command>
+    wasans:
+        usage: /<command>
